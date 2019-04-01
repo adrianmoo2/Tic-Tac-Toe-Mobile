@@ -23,6 +23,5 @@ Notable features adjusted:
 -Added reset button  
 -Added Toast messages for Player 1/2 victories and draw(s)  
 -Added player 1/2 texts, modified String.xml Resources  
--
 
 Estimated time spent working since last iteration: 2.5 hours
