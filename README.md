@@ -5,6 +5,8 @@ Coded in: Android Studio using Java and XML
 
 Estimated project competion time: 15 hours  
 
+Total time spent working on project: 2.5 hours
+
 Features I would like added being considering completion:  
 -4x4 or greater grid  
 -Random events  
