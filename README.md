@@ -21,9 +21,12 @@ Features I would like added before considering completion:
 V1: 4-1-2019
 
 Notable features adjusted:  
--finished basic functionality and logic of 3x3 grid  
--Added reset button  
--Added Toast messages for Player 1/2 victories and draw(s)  
--Added player 1/2 texts, modified String.xml Resources  
+-Figured out basics to navigate Android Studio
+-Designed basic layout (3x3 grid)
+-Added "Player 1" and "Player 2" texts
+-Finished functionality for the 3x3 grid
+-Added Toast messages for when Player 1 / 2 win
+-Added draw functionality if no victor
+-Added reset button 
 
 Estimated time spent working since last iteration: 2.5 hours
