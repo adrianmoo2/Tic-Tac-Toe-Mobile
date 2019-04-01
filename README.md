@@ -4,6 +4,7 @@ Mobile tic-tac-toe game. CURRENTLY on a 4x4 grid (with a couple other twists)
 Coded in: Android Studio using Java and XML
 
 Estimated project competion time: 15 hours  
+
 Features I would like added being considering completion:  
 -4x4 or greater grid  
 -Random events  
@@ -18,6 +19,10 @@ Features I would like added being considering completion:
 V1: 4-1-2019
 
 Notable features adjusted:  
+-finished basic functionality and logic of 3x3 grid  
+-Added reset button  
+-Added Toast messages for Player 1/2 victories and draw(s)  
+-Added player 1/2 texts, modified String.xml Resources  
 -
 
 Estimated time spent working since last iteration: 2.5 hours
