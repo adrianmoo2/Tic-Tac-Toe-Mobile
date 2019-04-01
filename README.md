@@ -13,4 +13,11 @@ Features I would like added being considering completion:
 -Background music selector as well as settings to mute, etc.
 -Theme selector
 
+![4-1-2019](https://user-images.githubusercontent.com/14877762/55365330-f85b3580-5498-11e9-8ba4-10d263507773.png)
 
+V1: 4-1-2019
+
+Notable features adjusted:  
+-
+
+Estimated time spent working since last iteration: 2.5 hours
