@@ -13,7 +13,7 @@ Features I would like added before considering completion:
 -Firebase implementation to store high scores  
 -Voice messages for victories / draws  
 -User input to select indicators (x's, o's, triangles, etc.) as well as name registration  
--Background music selector as well as settings to mute, etc.
+-Background music selector as well as settings to mute, etc.  
 -Theme selector
 
 ![4-1-2019](https://user-images.githubusercontent.com/14877762/55365788-b59a5d00-549a-11e9-8806-ab65d3d2f79f.png)
